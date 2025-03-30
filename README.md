@@ -32,6 +32,10 @@ Recommended System:
 2. Import `.ova`/`.vmx` to VMware Workstation/ESXi
 3. Default credentials: `root`/Pass: 37131111]
 
+  - SSH: root/37131111
+  - V2raya: root/37131111
+  - Web Interface: root/37131111
+   
 ## Customization
 After deployment:
 - Change default passwords

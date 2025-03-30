@@ -7,11 +7,11 @@ This repository contains a preconfigured OpenWRT VM image (x86 architecture) wit
 - VMware compatibility
 
 Key Features:
-✅ OpenWRT x86 (customized build)
-✅ v2rayA pre-installed & configured
-✅ 8GB storage allocation
-✅ VMware-optimized virtual hardware
-✅ Minimal resource footprint
+-✅ OpenWRT x86 (customized build)
+-✅ v2rayA pre-installed & configured
+-✅ 8GB storage allocation
+-✅ VMware-optimized virtual hardware
+-✅ Minimal resource footprint
 
 Usage:
 
